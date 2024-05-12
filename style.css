@@ -139,6 +139,28 @@ animation: none;
 }
 }
 
+.card-container1{
+    background-image: url('/Images/2.png');
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.card-container2{
+    background-image: url('/Images/3.png');
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+.card-container3{
+    background-image: url('/Images/4.png');
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+
 
 /* Responsive design  */
 
