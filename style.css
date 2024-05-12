@@ -1,0 +1,13 @@
+.carousel-div{
+    height: 400px;
+}
+
+
+
+/* Responsive design  */
+
+@media screen and (max-width: 576px) {
+    .carousel-div{
+        height: 250px;
+    }
+}
